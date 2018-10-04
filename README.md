@@ -1,1 +1,2 @@
 # szgmteszt2
+##kiscim
